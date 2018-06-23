@@ -8,6 +8,8 @@ mvn clean verify
 
 mvn clean install
 
+mvn clean deploy (make sure nexus repo details configured in pom.xml & settings.xml files)
+
 mvn tomcat7:deploy (Make sure tomcat server is online)
 
 mvn checkstyle:checkstyle checkstyle:check
