@@ -1,5 +1,7 @@
 # DevOpsWebSite - Phase-1 Example
 
+mvn clean validate
+
 mvn clean compile
 
 mvn clean test
