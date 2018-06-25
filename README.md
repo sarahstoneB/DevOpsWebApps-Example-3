@@ -1,5 +1,7 @@
 # DevOpsWebSite - Phase-1 Example
 
+# Maven Goals/Commands
+
 mvn clean validate
 
 mvn clean compile
